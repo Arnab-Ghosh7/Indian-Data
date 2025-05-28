@@ -17,4 +17,4 @@ Arnab Ghosh()
 
 
 ## Preview
-![graph image]()
+![graph image](https://github.com/Arnab-Ghosh7/Indian-Data/blob/194dde010b8e51c20ada802984ae67b28b806507/Resources/Screenshot%202025-05-28%20212605.png)
