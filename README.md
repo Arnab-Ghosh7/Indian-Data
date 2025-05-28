@@ -1,4 +1,6 @@
-# This is a streamlit app where you get a Indian map and the information about population,sex_ratio etc
+# Streamlit App
+
+This is a streamlit app where you get a Indian map and the information about population,sex_ratio etc
 
 ## Used Libraries
 
